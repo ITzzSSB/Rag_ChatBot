@@ -1,0 +1,30 @@
+# Core dependencies
+fastapi
+uvicorn[standard]
+streamlit
+python-multipart
+
+# Google AI and LangChain
+google-generativeai
+langchain
+langchain-community
+langchain-google-genai
+
+# Vector database and embeddings
+faiss-cpu
+numpy
+
+# PDF processing
+PyPDF2
+pypdf
+
+# HTTP requests
+requests
+
+# Additional utilities
+python-dotenv
+pydantic
+typing-extensions
+
+# Optional: For better PDF handling
+pymupdf
